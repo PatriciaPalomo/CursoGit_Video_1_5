@@ -1,1 +1,9 @@
-// JavaScript Document
+// JavaScript Document 
+
+function saludo () {
+	
+	alert ("Hola");
+	
+	
+	
+}
